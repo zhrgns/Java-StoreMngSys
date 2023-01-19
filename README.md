@@ -1,4 +1,4 @@
-# Java-StoreMngSys
+#Store Management System
 This repo includes one of my personal projects written in Java.
 
 - In the main method, it creates an instance of the Store class by calling the "openStore" method.Then it uses the "addCellphone" and "addNotebook" methods of the Store class to add a few products (cellphones and notebooks) to the store. Finally, it calls the "operations" method of the Store class, which allows the user to interact with the product management system via a command-line interface, displaying the menu options and handling the user's choice.
